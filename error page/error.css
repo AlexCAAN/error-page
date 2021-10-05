@@ -1,0 +1,22 @@
+body{
+    background-color: lightgoldenrodyellow;
+    font-family: 'Akronim', cursive;
+    font-size: 3EM;
+}
+
+.error-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+    width: 95vw;
+    flex-direction: column;
+}
+
+.error-wrapper > .error-heading {
+    margin-bottom: 42px;
+}
+
+img{
+    width:50%;
+}
